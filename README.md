@@ -2,7 +2,8 @@
 `composer require "huid/laravel-ueditor:~2.0" -vvv`
 
 ### 配置
-1. 发布配置文件与资源
+发布配置文件与资源
+
 `php artisan vendor:publish --provider='Huid\\LaravelUeditor\\LaravelUeditorServiceProvider'`
 
 ### 使用
