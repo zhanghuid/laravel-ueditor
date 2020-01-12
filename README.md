@@ -13,10 +13,10 @@
 
 ### 大感谢
 ---
-[laravel-admin](https://github.com/z-song/laravel-admin)
-[overtrue/laravel-ueditor](https://github.com/overtrue/laravel-ueditor)
-[Laravel-UEditor](https://github.com/codingyu/laravel-ueditor)
-[neditor](https://github.com/notadd/neditor)
+- [laravel-admin](https://github.com/z-song/laravel-admin)
+- [overtrue/laravel-ueditor](https://github.com/overtrue/laravel-ueditor)
+- [Laravel-UEditor](https://github.com/codingyu/laravel-ueditor)
+- [neditor](https://github.com/notadd/neditor)
 
 ### 参考
 [ueditor上传视频，显示不出问题](https://blog.csdn.net/weixin_43239106/article/details/82830615)
